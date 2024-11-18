@@ -1,0 +1,18 @@
+{
+    "date": "2024-12-31",
+    "language": "fr",
+    "letters": {
+        "center": "C",
+        "consonants": [
+            "G",
+            "S",
+            "R",
+            "N"
+        ],
+        "vowels": [
+            "E",
+            "I",
+            "A"
+        ]
+    }
+}
