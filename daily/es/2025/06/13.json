@@ -1,0 +1,18 @@
+{
+    "date": "2025-06-13",
+    "language": "es",
+    "letters": {
+        "center": "C",
+        "consonants": [
+            "S",
+            "N",
+            "B",
+            "D"
+        ],
+        "vowels": [
+            "E",
+            "O",
+            "A"
+        ]
+    }
+}

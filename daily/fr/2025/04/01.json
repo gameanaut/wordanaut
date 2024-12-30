@@ -1,0 +1,18 @@
+{
+    "date": "2025-04-01",
+    "language": "fr",
+    "letters": {
+        "center": "M",
+        "consonants": [
+            "V",
+            "S",
+            "N",
+            "T"
+        ],
+        "vowels": [
+            "I",
+            "E",
+            "A"
+        ]
+    }
+}
